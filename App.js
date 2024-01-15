@@ -39,10 +39,6 @@ const App = () => {
 }
 
 const estils = StyleSheet.create({
-  sectionTitle: {
-    fontSize: 24,
-    fontWeight: '600',
-  },
   contenedor: {
     flex:1,
   },
