@@ -1,0 +1,63 @@
+{
+    "Puntuacions": {
+        "Wed Jan 3 2024 09:10:40 GMT-0400 (Hora d’estiu oriental d’Amèrica del Nord)": {
+            "Alumne Avaluat": "PLATINI, MICHEL",
+            "Aspectes Formals (20%)": 8,
+            "Dificultat ": 5,
+            "Grau de Resolució de la Proposta": 5,
+            "Originalitat": 6,
+            "Actualitat": 6,
+            "Resultats Obtinguts": 6,
+            "Altres consideracions": "Video demo del funcionament de l'app. L'app no fa cap tipus de comprovació d'errors. App agarradeta amb pinces. Dates en format Anglés, sense selector de dates.",
+            "Qualitat de l'expressió oral": 6,
+            "Qualitat de les respostes a les preguntes": 6
+        },
+        "Wed Jan 3 2024 09:24:45 GMT-0400 (Hora d’estiu oriental d’Amèrica del Nord)": {
+            "Alumne Avaluat": "VAN BASTEN, MARCO",
+            "Aspectes Formals (20%)": 7,
+            "Dificultat ": 7,
+            "Grau de Resolució de la Proposta": 6,
+            "Originalitat": 6,
+            "Actualitat": 8,
+            "Resultats Obtinguts": 6,
+            "Altres consideracions": "La interfície és molt millorable, mantenint una interfície de text podria ser prou més útil per a un potencial usuari.",
+            "Qualitat de l'expressió oral": 8,
+            "Qualitat de les respostes a les preguntes": 8
+        },
+        "Wed Jan 3 2024 09:42:30 GMT-0400 (Hora d’estiu oriental d’Amèrica del Nord)": {
+            "Alumne Avaluat": "DEL PIERO, ALESSANDRO",
+            "Aspectes Formals (20%)": 7,
+            "Dificultat ": 6,
+            "Grau de Resolució de la Proposta": 6,
+            "Originalitat": 5,
+            "Actualitat": 6,
+            "Resultats Obtinguts": 5,
+            "Altres consideracions": "no funciona",
+            "Qualitat de l'expressió oral": 6,
+            "Qualitat de les respostes a les preguntes": 6
+        },
+        "Wed Jan 3 2024 10:03:10 GMT-0400 (Hora d’estiu oriental d’Amèrica del Nord)": {
+            "Alumne Avaluat": "BECKENBAUER, FRANZ",
+            "Aspectes Formals (20%)": 9,
+            "Dificultat ": 9,
+            "Grau de Resolució de la Proposta": 10,
+            "Originalitat": 9,
+            "Actualitat": 9,
+            "Resultats Obtinguts": 9,
+            "Altres consideracions": "Molt bon treball",
+            "Qualitat de l'expressió oral": 10,
+            "Qualitat de les respostes a les preguntes": 10
+        },
+        "Wed Jan 3 2024 15:33:33 GMT-0400 (Hora d’estiu oriental d’Amèrica del Nord)": {
+            "Alumne Avaluat": "LINEKER, GARY",
+            "Aspectes Formals (20%)": 6,
+            "Dificultat ": 8,
+            "Grau de Resolució de la Proposta": 8,
+            "Originalitat": 8,
+            "Actualitat": 8,
+            "Resultats Obtinguts": 8,
+            "Qualitat de l'expressió oral": 10,
+            "Qualitat de les respostes a les preguntes": 10
+        }
+    }
+}
